@@ -1,1 +1,31 @@
-
+{
+  "total_examples": 13678,
+  "source_distribution": {
+    "2_GARD_QA": 5211,
+    "3_GHR_QA": 4734,
+    "6_NINDS_QA": 1010,
+    "4_MPlus_Health_Topics_QA": 897,
+    "5_NIDDK_QA": 670,
+    "1_CancerGov_QA": 415,
+    "8_NHLBI_QA_XML": 328,
+    "9_CDC_QA": 228,
+    "7_SeniorHealth_QA": 185
+  },
+  "qtype_distribution": {
+    "information": 3742,
+    "symptoms": 2502,
+    "treatment": 1998,
+    "inheritance": 1368,
+    "genetic changes": 1076,
+    "frequency": 708,
+    "causes": 601,
+    "exams and tests": 470
+  },
+  "answer_length_stats": {
+    "mean": 162.90576107618074,
+    "median": 133.0,
+    "std": 108.56738285314965,
+    "min": 20,
+    "max": 500
+  }
+}
