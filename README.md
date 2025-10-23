@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## 🎓 Project
 
 **Student**: Pranav Kharat  
-**Course**: LLM Fine-Tuning  
+**Course**: Prompt Engineering & AI  
 **Institution**: Northeastern University
 
 ## ⚠️ Disclaimer
